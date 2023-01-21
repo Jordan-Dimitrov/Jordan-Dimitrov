@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and Drone Enthusiast!
 
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning node.js and express.js
 - 🥅 2023 Goals: Learn more about web development
 ### Languages and Tools:
 <p align="left">
