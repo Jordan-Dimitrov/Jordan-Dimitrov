@@ -21,7 +21,9 @@
 </p>
 <br />
 <br />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Dimitrov&show_icons=true&theme=radical)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Dimitrov&layout=compact)](https://github.com/ivan-iliev)
 
 ![](https://komarev.com/ghpvc/?username=your-github-Jordan-Dimitrov&color=green)
