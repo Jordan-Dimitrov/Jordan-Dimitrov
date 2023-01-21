@@ -2,8 +2,8 @@
 
 ## I'm a Student, Developer, and Drone Enthusiast!
 
-- 🌱 I’m currently learning everything php
-- 🥅 2023 Goals: Learn more about game delevopment
+- 🌱 I’m currently learning php
+- 🥅 2023 Goals: Learn more about web development
 
 ### Languages and Tools:
 <p align="left">
@@ -22,7 +22,7 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Dimitrov&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Dimitrov&show_icons=true&theme=tokyonight)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Dimitrov&layout=compact)](https://github.com/jordan-dimitrov)
 
