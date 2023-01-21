@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Jordan Dimitrov 👋 
 
-<!--
-**Jordan-Dimitrov/Jordan-Dimitrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student, Developer, and Drone Enthusiast!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning everything php
+- 🥅 2023 Goals: Learn more about game delevopment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" alt="C#" width="45" height="45"/>  
+</p>
+<br />
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Dimitrov&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Dimitrov&layout=compact)](https://github.com/ivan-iliev)
+
+![](https://komarev.com/ghpvc/?username=your-github-Jordan-Dimitrov&color=green)
