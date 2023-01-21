@@ -19,8 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" alt="C#" width="45" height="45"/>  
 </p>
-<br />
-<br />
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Dimitrov&show_icons=true&theme=tokyonight)
 <br>
