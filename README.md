@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning node.js and express.js
 - 🥅 2023 Goals: Learn more about web development
+- 📫 How to reach me: jordan.d1.dimitrov@gmail.com
 ### Languages and Tools:
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -25,3 +26,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Dimitrov&layout=compact)](https://github.com/jordan-dimitrov)
 
 ![](https://komarev.com/ghpvc/?username=your-github-Jordan-Dimitrov&color=green)
+
+<br>
