@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning node.js and express.js
 - 🥅 2023 Goals: Learn more about web development
 - 📫 How to reach me: jordan.d1.dimitrov@gmail.com
+- ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Dimitrov&show_icons=true&theme=tokyonight)
