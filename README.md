@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php,nodejs,mysql,unity,js,html,css)](https://skillicons.dev)
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Dimitrov&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Dimitrov&include_all_commits=true&show_icons=true&theme=tokyonight)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Dimitrov&layout=compact)](https://github.com/jordan-dimitrov)
 
