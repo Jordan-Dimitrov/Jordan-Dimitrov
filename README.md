@@ -2,7 +2,7 @@
 
 ## I'm a Student and a Developer!
 
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning Rust
 - 🥅 2024 Goals: Learn more about distributed systems
 - 📫 How to reach me: jordan.d1.dimitrov@gmail.com
 ### Languages and Tools:
@@ -11,7 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Dimitrov&rank_icon=github&show_icons=true&theme=tokyonight)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Dimitrov&layout=compact)](https://github.com/jordan-dimitrov)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Dimitrov&layout=compact&exclude_repo=Pong,TalkHubAPI,BlackJack,AzMoga)](https://github.com/jordan-dimitrov)
 
 ![](https://komarev.com/ghpvc/?username=your-github-Jordan-Dimitrov&color=green)
 
