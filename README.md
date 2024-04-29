@@ -11,7 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Dimitrov&rank_icon=github&show_icons=true&theme=tokyonight)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Dimitrov&layout=compact&exclude_repo=Pong,TalkHubAPI,BlackJack,AzMoga)](https://github.com/jordan-dimitrov)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Dimitrov&layout=compact&exclude_repo=Pong,TalkHubAPI,BlackJack,AzMoga,PheasantBenchmark)](https://github.com/jordan-dimitrov)
 
 ![](https://komarev.com/ghpvc/?username=your-github-Jordan-Dimitrov&color=green)
 
