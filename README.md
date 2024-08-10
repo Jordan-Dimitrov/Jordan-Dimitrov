@@ -1,6 +1,4 @@
-# Hi there, I'm Jordan Dimitrov 👋 
-
-## I'm a Student and a Developer!
+## Hi there 👋 
 
 - 🌱 I’m currently learning Rust
 - 🥅 2024 Goals: Learn more about distributed systems
