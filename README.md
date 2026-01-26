@@ -1,7 +1,7 @@
 ## Hi there 👋 
 
 - 🌱 I’m currently learning Rust
-- 🥅 2025 Goals: Learn more about distributed systems
+- 🥅 2026 Goals: Learn more about distributed systems
 - 📫 How to reach me: jordan.d1.dimitrov@gmail.com
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,rust,cpp,php,nodejs,mysql,rabbitmq,redis,unity)](https://skillicons.dev)
