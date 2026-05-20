@@ -1,10 +1,10 @@
 ## Hi there 👋 
 
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently mastering Microsoft Azure
 - 🥅 2026 Goals: Learn more about distributed systems
 - 📫 How to reach me: jordan.d1.dimitrov@gmail.com
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,rust,cpp,php,nodejs,mysql,rabbitmq,redis,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,rust,cpp,php,nodejs,azure,mysql,rabbitmq,redis)](https://skillicons.dev)
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-Dimitrov&rank_icon=github&show_icons=true&theme=tokyonight)
